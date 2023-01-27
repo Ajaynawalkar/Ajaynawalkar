@@ -3,7 +3,7 @@
 
 - **I have Completed My Graduation in Civil Engineering from Government College of Engineering, Chandrapur. in year of 2021.**
 
-- 🌱 I’m currently learning **Data Analysis & Machine Learning**
+- 🌱 I’m currently learning **Data Analysis & Machine Learning Models**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects and do research on the Data as well.**
 
